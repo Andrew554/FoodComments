@@ -12,5 +12,4 @@
           by:自我熟悉UI
 
                                                    项目演示
-                                        
-                                        ![image](https://github.com/Andrew554/FoodComments/blob/master/%E5%90%83%E8%B4%A7%E7%82%B9%E8%AF%841.0.gif)
+                                                   ![image](https://github.com/Andrew554/FoodComments/blob/master/%E5%90%83%E8%B4%A7%E7%82%B9%E8%AF%841.0.gif)
